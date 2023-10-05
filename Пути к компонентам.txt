@@ -1,0 +1,5 @@
+Чекбокс соглашения
+/bitrix/templates/...template-name.../components/bitrix/main.userconsent.request/.default
+
+Компонент местоположения пока не ясно как подключается, возможно через js. Стили для оформления блока пишем в стилях компонента sale.order.ajax
+/bitrix/templates...template-name.../components/bitrix/sale.location.selector.search/.default
